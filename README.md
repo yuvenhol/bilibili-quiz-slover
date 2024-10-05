@@ -4,6 +4,8 @@
 
 AI驱动的bilibili自动化答题助手，使用Qwen+Langchain+pyautogui 实现多模态识别、答案生成、自动答题。
 
+![视频介绍](https://www.bilibili.com/video/BV1WJ1RYmEAz)
+
 ## 使用方法
 
 1. 安装依赖
