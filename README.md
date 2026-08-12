@@ -1,3 +1,5 @@
+
+
 # bilibili-quiz
 
 ## 简介
@@ -24,7 +26,7 @@ export DASHSCOPE_API_KEY=<你的API密钥>
 3. 修改截图区域
 
 
-`screenshot_region` 变量
+`screenshot_region` 变量（格式为 `(x, y, width, height)`，请根据实际界面坐标进行调整）
 
 
 4. 修改选项位置
@@ -37,10 +39,3 @@ export DASHSCOPE_API_KEY=<你的API密钥>
 ```bash
 python main.py
 ```
-
-
-
-
-
-
-
